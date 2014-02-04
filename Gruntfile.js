@@ -44,7 +44,7 @@ module.exports = function(grunt) {
 		        expand: true,                  
 		        cwd: 'images/',
 		        src: ['**/*.{png,jpg,gif}'],   
-		        dest: 'webroot/evernote/media/img/'                 
+		        dest: 'images/'                 
 		      }]
 		    }
 		},
